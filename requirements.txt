@@ -1,0 +1,11 @@
+pip install  
+fastapi 
+uvicorn
+sqlalchemy
+passlib[bcrypt] 
+alembic
+sqlalchemy_utils 
+python-jose[cryptography]
+python-dotenv
+python-multipart
+requests 
